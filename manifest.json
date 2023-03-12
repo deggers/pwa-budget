@@ -1,0 +1,18 @@
+{
+    "name":"Simple PWA Hello World",
+    "short_name":"PWAHello",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"#5900b3",
+    "theme_color":"black",
+    "scope": ".",
+    "description":"PWA Basics",
+    "orientation": "portrait-primary",
+    "icons":[
+      {
+      "src":"images/h-icon.png",                    
+      "sizes":"256x256",
+      "type":"image/png"
+      }
+    ]
+}
